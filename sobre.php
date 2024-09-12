@@ -12,7 +12,7 @@
             <?php include 'includes/header.php';?>
             <main>
                 <div class="position-relative">
-                    <h1>Sobre</h1>
+                    <h1>Sobre</h1> 
                     <p>Sobre a empresa</p>
                     <img src="assets/images/dogfofinho.jpg" class="img-fluid foto" alt="">
                 </div>

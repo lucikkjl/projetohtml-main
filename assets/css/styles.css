@@ -138,25 +138,28 @@ table {
 body {
   font-family: sans-serif; /* fonte sem serifa */
   font-size: 16px; /* tamanho da fonte, o tamnho padrão já é 16px */
-  background-color: rgb(200, 60, 119);
+  background-color: #8e4fb8;
 }
 
 .container {
-  max-width: 600px; /* Largura máxima do container */
+  max-width: 800px; /* Largura máxima do container */
   background-color: white;
-  /* border-width: 1px;
-      border-style: solid;
-      border-color: red; */
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
+  padding: 50px;
   border-radius: 50px;
-  border-radius: 25px;
+  border-radius: 30px;
+}
+
+.nome_empresa{
+  text-align: center;
+  ;
 }
 
 .img-fluid {
-  width: 100%; /* Largura 100% */
+  width: 150%; /* Largura 100% */
   height: auto;
+  padding: 5%;
 }
 
 .text-center {
@@ -165,7 +168,7 @@ body {
 }
 
 h1 {
-  color: rgb(200, 60, 119); /* Define a cor do texto */
+  color: #8e4fb8; /* Define a cor do texto */
 }
 
 input,
@@ -201,8 +204,8 @@ h1 {
 }
 
 .logo {
-  max-width: 100px;
-  text-align: center;
+  max-width: 200px;
+  text-align: left;
 }
 
 .menu {
@@ -210,7 +213,7 @@ h1 {
   justify-content: space-between;
   border-style: solid;
   border-width: 1px;
-  border-color: rgb(255, 213, 234);
+  border-color: #f1e4fc;
   padding: 10px;
   margin-bottom: 20px;
 }
@@ -218,7 +221,7 @@ h1 {
   font-weight: bold;
 }
 .menu li a {
-  color: rgb(200, 60, 119);
+  color: #8e4fb8;
 }
 
 .position-relative {

@@ -12,8 +12,8 @@
             <?php include 'includes/header.php';?>
             <main>
                 <div>
-                    <h1>Bem vindx ao <?php echo $nomepag;?> </h1>
-                    <p>Nossa empresa trabalha com transporte canino de animais de até 15kg na cidade Joinville e região</p>
+                    <h1>Bem vindo ao TransPet </h1>
+                    <p>Nossa empresa trabalha com transporte canino de animais de até 10kg na cidade Joinville e região</p>
                 </div>
             </main>
             <?php include 'includes/footer.php';?>
